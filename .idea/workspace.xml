@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da43bd0b-a9cc-4214-8fa6-11b3819b1ee3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wsp_project-master/images/CTA.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wsp_project-master/images/Contact.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wsp_project-master/images/Footer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wsp_project-master/images/Graphics.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wsp_project-master/images/Header.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wsp_project-master/images/Home Page.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wsp_project-master/images/Login:Registration.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wsp_project-master/images/Navigation.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wsp_project-master/images/Search Feature.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wsp_project-master/images/Social Media.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wsp_project-master/index.html" afterPath="$PROJECT_DIR$/wsp_project-master/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wsp_project-master/css/main.css" afterPath="$PROJECT_DIR$/wsp_project-master/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="da43bd0b-a9cc-4214-8fa6-11b3819b1ee3" name="Default" comment="" />
     <ignored path="Web Standards Project.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -109,6 +95,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Web Standards Project" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web Standards Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web Standards Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
