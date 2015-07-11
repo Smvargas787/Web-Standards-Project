@@ -5,9 +5,9 @@ WSP COMPONENT LIBRARY STYLESHEET
 
 /*Body*/
 body{
-    opacity: 0.9;
+    opacity: 10;
     color: #efe;
-    background-image:url("../images/gridded-blue.gif");
+    background-image:url("../images/dark-spade.png");
     font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial, sans-serif;
 
 
@@ -22,7 +22,7 @@ body{
     margin-left: auto;
     margin-right: auto;
     padding: 10px;
-    background-image:url("../images/gridded-blue.gif");
+    background-image:url("../images/dark-spade.png");
 
 }
 
@@ -88,9 +88,9 @@ p{
 
 div{
     width: 935px;
-    border: solid 3px;
+    border: solid 3px black;
     padding: 10px;
-    background-color: #050505;
+    background-color: #262626;
     opacity: 10;
 }
 
