@@ -3,7 +3,50 @@
 WSP COMPONENT LIBRARY STYLESHEET
 ================================================================================ */
 
+/*Body*/
+body{
+    opacity: 0.9;
+    background-color: #000;
+    color: #efe;
 
+}
+
+.page{
+    width: 960px;
+    margin-top: 1.041%;
+    margin-bottom: 1.041%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    background-image:url("../images/gridded-blue.gif");
+}
+
+/*Headings*/
+h1, h2{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial, sans-serif;
+}
+
+h3, h4, h5, h6{
+
+}
+
+/*images*/
+
+.intro_pic{
+    width:400px;
+    height:500px;
+    margin:0 auto;
+    display: block;
+}
+
+.component1pic, .component2pic, .component3pic, .component4pic, .component5pic,
+.component6pic, .component7pic, .component8pic, .component9pic, .component10pic{
+    width: 715px;
+    margin:0 auto;
+    display: block;
+}
 
 /* HEADER SPECIFIC ======================================== */
 
